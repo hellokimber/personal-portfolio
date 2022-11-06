@@ -6,9 +6,9 @@ const pages = [
   {copy: 'an Alberta-based designer', background: '#d3c7f3', circle: '#f7fe00'},
   {copy: 'updating her portfolio', background: '#A9FFF7', circle: '#e34a47'},
   {copy: 'creating experiences for print and web', background: '#BBBE64', circle: '#A9FFF7'},
-  {copy: 'posting photos on <a href="https://vsco.com/hellokimber">VSCO</a>', background: '#FDE74C', circle: '#b472e6'},
+  {copy: `building with code on <a href="https://github.com/hellokimber">GitHub</a>`, background: '#8BC3FF', circle: '#FDE74C'},
   {copy: `sharing her resume on <a href="https://www.linkedin.com/in/kvanderhelm">LinkedIn</a>`, background: '#f18d8c', circle: '#A9FFF7'},
-  {copy: `diving into code on <a href="https://github.com/hellokimber">GitHub</a>`, background: '#8BC3FF', circle: '#FDE74C'}
+  {copy: 'posting photos on <a href="https://vsco.com/hellokimber">VSCO</a>', background: '#FDE74C', circle: '#b472e6'}
 ]
 
 // pick the relevant tags
