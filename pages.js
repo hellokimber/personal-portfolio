@@ -4,7 +4,7 @@ let pageNumber = 0
 // have the content for these pages
 const pages = [
   {copy: 'an Alberta-based designer', background: '#d3c7f3', circle: '#f7fe00'},
-  {copy: 'showcasing her portfolio on <a href="https://www.figma.com/proto/0HZqOzWUb9jhDqUrZ1CFUo/Kim's-Portfolio?node-id=580%3A4504&scaling=contain&page-id=580%3A4039&starting-point-node-id=580%3A4504&show-proto-sidebar=1">Figma</a>', background: '#A9FFF7', circle: '#e34a47'},
+  {copy: 'showcasing her portfolio on <a href="http://bit.ly/40wYOYh">Figma</a>', background: '#A9FFF7', circle: '#e34a47'},
   {copy: 'creating experiences for print and web', background: '#BBBE64', circle: '#A9FFF7'},
   {copy: `building with code on <a href="https://github.com/hellokimber">GitHub</a>`, background: '#8BC3FF', circle: '#FDE74C'},
   {copy: `sharing her resume on <a href="https://www.linkedin.com/in/kvanderhelm">LinkedIn</a>`, background: '#f18d8c', circle: '#A9FFF7'},
